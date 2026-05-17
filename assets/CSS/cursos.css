@@ -1,8 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 /* =======================================================
    ESTILOS ESPECÍFICOS: PÁGINA DE CURSOS
@@ -68,22 +63,7 @@
   line-height: 1.6;
 }
 
-h2 {
-  color: var(--color-4);
-  margin-top: 2.5rem; /* Aumentado */
-  margin-bottom: 1.5rem; /* Añadido */
-  font-size: 1.8rem;
-  font-weight: 700;
-}
 
-ul {
-  margin-left: 1.2rem;
-  margin-bottom: 1rem;
-}
-
-p {
-  margin-bottom: 1rem;
-}
 
 /* -------------------------------------------------------
    GALERÍA DE IMÁGENES
@@ -214,11 +194,6 @@ p {
   grid-column: 1 / -1;
 }
 
-label {
-  display: block;
-  margin-bottom: 0.35rem;
-  font-weight: 600;
-}
 
 input, textarea {
   width: 100%;
